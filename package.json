@@ -1,5 +1,5 @@
 {
-  "name": "react-rte",
+  "name": "@morressier/react-rte",
   "version": "0.16.1",
   "description": "React Rich Text Editor",
   "main": "dist/react-rte.js",
@@ -52,13 +52,13 @@
     "eslint-plugin-react": "^6.5.0",
     "expect": "^1.20.2",
     "flow-bin": "^0.32.0",
+    "iso-morphic-style-loader": "^2.0.1",
     "mocha": "^3.1.2",
     "raw-loader": "^0.5.1",
     "react": "16.x.x",
     "react-dom": "16.x.x",
     "react-test-renderer": "^16.4.0",
     "rimraf": "^2.5.4",
-    "style-loader": "^0.18.2",
     "webpack": "^3.4.0",
     "webpack-dev-server": "^2.6.1"
   },
